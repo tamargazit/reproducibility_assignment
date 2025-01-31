@@ -6,7 +6,7 @@ date: "9 February 2024"
 output: html_document
 knitr:
   opts_knit:
-    root.dir: "/Users/tamargazit/Desktop/PSYR 6003 - Advanced Statistics/Labs/Lab 3/reproducibility_assignment"
+    root.dir: "/Users/ashleyfrancis/Documents/PhD - Dalhousie/Teaching/Stats - R /Stats 2024/Lab 3/reproducibility_assignment"
 ---
 
 ```{r global_options, echo=FALSE, warning=FALSE, message=FALSE, include=FALSE}
