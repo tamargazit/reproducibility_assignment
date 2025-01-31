@@ -1,0 +1,17 @@
+---
+title: "Main Analysis"
+author: "Tamar Gazit"
+format: html
+editor: visual
+---
+
+```{r}
+# run only once to download the data
+
+# stroop_data <-read.delim("https://raw.githubusercontent.com/Lakens/Stroop/master/stroop.txt", header = TRUE)
+# write.table(stroop_data, file = "stroop.csv", quote = FALSE, row.names = FALSE, sep = ",")
+
+stroop_data <- read.csv("stroop.csv",header = TRUE)
+
+
+```
